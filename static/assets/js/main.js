@@ -96,6 +96,10 @@ document.addEventListener("DOMContentLoaded", () => {
   }
 
   const options = {
+    "Blocksi Access Denied": { 
+      name: "Blocksi Access Denied", 
+      icon: "/assets/media/favicon/blocksi.png" 
+    },
     Google: { name: "Google", icon: "/assets/media/favicon/google.png" },
     "Savvas Realize": {
       name: "Savvas Realize",
